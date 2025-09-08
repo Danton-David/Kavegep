@@ -1,0 +1,2 @@
+# Kavegep
+Kávégép Csapatmunka feladat
