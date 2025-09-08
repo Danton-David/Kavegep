@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KávégépAutomata_Ulicny_Balássy/1.0.0": {
+        "runtime": {
+          "KávégépAutomata_Ulicny_Balássy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KávégépAutomata_Ulicny_Balássy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
